@@ -1,0 +1,27 @@
+def clean_washing_machine():
+    print("Cleaning your washing machine...")
+
+    # Step 1: Empty the washing machine
+    print("1. Empty the washing machine.")
+https://mykitchenspoint.com/washing-machine-smells-like-rotten-eggs/
+
+    # Step 2: Run a hot water cycle
+    print("2. Run a hot water cycle without any clothes.")
+    print("   Add 2 cups of white vinegar to the detergent dispenser.")
+
+    # Step 3: Wipe down the drum and rubber gasket
+    print("3. Wipe down the drum and rubber gasket with a mixture of equal parts water and vinegar.")
+
+    # Step 4: Clean the detergent dispenser and filters
+    print("4. Remove and clean the detergent dispenser and any filters.")
+
+    # Step 5: Run a second hot water cycle
+    print("5. Run another hot water cycle to rinse the machine.")
+
+    # Step 6: Leave the door open to air dry
+    print("6. Leave the washing machine door open to allow it to air dry completely.")
+
+    print("Your washing machine should now be smelling fresh and clean!")
+
+# Call the function to clean the washing machine
+clean_washing_machine()
